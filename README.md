@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development!
 - 🌱 I’m currently learning TypeScript & React
 - 📫 How to reach me: tereza.muzikova@gmail.com
-- ⚡ Fun fact: I have studied chemistry! what a twist haha
+
 
 
 <!---
